@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.6.14",
+    "gifencoder": "npm:gifencoder@^2.0.1",
+    "canvas": "https://deno.land/x/canvas@v1.4.2/mod.ts"
+  }
+}
